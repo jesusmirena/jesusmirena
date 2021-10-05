@@ -1,6 +1,10 @@
 <h1 align="center">Hi 👋, I'm Jesus Alejandro</h1>
 <h3 align="center">I'm a junior Full Stack Web Developer</h3>
 
+<div align="center">
+<img width="500" height="250" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRpCOTiUiJh7Lzro6jbIIM7hWriJeNJTri7JsnDyRdfSSk0Zbgga8dG0DSFC9FqBPkLsKA&usqp=CAU">
+</div>
+
 - 🔭 I’m currently working on **my personal projects**
 
 - 🌱 I’m currently learning **Typescript, GraphQL and Nextjs**
@@ -9,7 +13,7 @@
 
 - 📫 How to reach me **jesusamh16@gmail.com just tell me that you came from here**
 
-- ⚡ Fun fact **I'm always wearing earphones, I just can't stop listening to music, I**
+- ⚡ Fun fact **I'm always wearing earphones, I just can't stop listening to music**
 
 
 <h3 align="left">Languages and Tools:</h3>
